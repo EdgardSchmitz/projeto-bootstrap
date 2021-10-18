@@ -1,2 +1,2 @@
 # projeto bootstra
- Pagina para estudos do Bootestrap
+ Página para estudos do Bootestrap
