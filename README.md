@@ -1,2 +1,2 @@
-# projeto bootstrap
- pagina de estudo bootstrap
+# projeto bootstra
+ Pagina para estudos do Bootestrap
